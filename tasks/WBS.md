@@ -3,98 +3,98 @@
 ## Milestones
 
 ### Project Initiation and Stakeholder Analysis
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Identify key stakeholders and their needs. Define project scope and objectives.
 
 #### Tasks
-- [ ] **Identify Stakeholders** (todo) — medium priority
-- [ ] **Conduct Stakeholder Interviews** (todo) — medium priority
-- [ ] **Define Project Scope** (todo) — medium priority
+- [x] **Identify Stakeholders** (done) — medium priority
+- [x] **Conduct Stakeholder Interviews** (done) — medium priority
+- [x] **Define Project Scope** (done) — medium priority
 
 ### Requirements Gathering and User Persona Development
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Gather detailed business requirements and develop user personas.
 
 #### Tasks
-- [ ] **Gather Business Requirements** (todo) — medium priority
-- [ ] **Develop User Personas** (todo) — medium priority
-- [ ] **Process Mapping** (todo) — medium priority
+- [x] **Gather Business Requirements** (done) — medium priority
+- [x] **Develop User Personas** (done) — medium priority
+- [x] **Process Mapping** (done) — medium priority
 
 ### Current-State Process Analysis and Future-State Design
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Analyze current processes and design the future-state Salesforce solution.
 
 #### Tasks
-- [ ] **Analyze Current-State Processes** (todo) — medium priority
-- [ ] **Design Future-State Processes** (todo) — medium priority
-- [ ] **Solution Design Document** (todo) — medium priority
+- [x] **Analyze Current-State Processes** (done) — medium priority
+- [x] **Design Future-State Processes** (done) — medium priority
+- [x] **Solution Design Document** (done) — medium priority
 
 ### Salesforce Data Model Design
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Design a scalable Salesforce data model.
 
 #### Tasks
-- [ ] **Design Account Model** (todo) — medium priority
-- [ ] **Design Opportunity Model** (todo) — medium priority
-- [ ] **Design Custom Objects** (todo) — medium priority
+- [x] **Design Account Model** (done) — medium priority
+- [x] **Design Opportunity Model** (done) — medium priority
+- [x] **Design Custom Objects** (done) — medium priority
 
 ### Automation Strategy Development
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Develop automation strategies within Salesforce.
 
 #### Tasks
-- [ ] **Distributor Onboarding Automation** (todo) — medium priority
-- [ ] **Order Follow-Up Automation** (todo) — medium priority
-- [ ] **Promotional Approval Automation** (todo) — medium priority
+- [x] **Distributor Onboarding Automation** (done) — medium priority
+- [x] **Order Follow-Up Automation** (done) — medium priority
+- [x] **Promotional Approval Automation** (done) — medium priority
 
 ### Dashboard and Reporting Design
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Design executive dashboards to track key performance indicators.
 
 #### Tasks
-- [ ] **Regional Sales Growth Dashboard** (todo) — medium priority
-- [ ] **Distributor Performance Scorecard** (todo) — medium priority
-- [ ] **Promotional ROI Dashboard** (todo) — medium priority
+- [x] **Regional Sales Growth Dashboard** (done) — medium priority
+- [x] **Distributor Performance Scorecard** (done) — medium priority
+- [x] **Promotional ROI Dashboard** (done) — medium priority
 
 ### Implementation Planning and Security Model
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Define security models, Agile backlog planning, and UAT coordination.
 
 #### Tasks
-- [ ] **Define Security Model** (todo) — medium priority
-- [ ] **Agile Backlog Planning** (todo) — medium priority
-- [ ] **UAT Coordination** (todo) — medium priority
+- [x] **Define Security Model** (done) — medium priority
+- [x] **Agile Backlog Planning** (done) — medium priority
+- [x] **UAT Coordination** (done) — medium priority
 
 ### Release Strategy and Governance
-- **Status:** todo
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Develop a release strategy and long-term governance plan.
 
 #### Tasks
-- [ ] **Define Release Strategy** (todo) — medium priority
-- [ ] **Establish Governance Plan** (todo) — medium priority
-- [ ] **Final Presentation Preparation** (todo) — medium priority
+- [x] **Define Release Strategy** (done) — medium priority
+- [x] **Establish Governance Plan** (done) — medium priority
+- [x] **Final Presentation Preparation** (done) — medium priority
 
